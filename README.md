@@ -1,4 +1,3 @@
 # Mult_Country
 
-MobilePush muilt application 
-
+MobilePush mult AppID application
